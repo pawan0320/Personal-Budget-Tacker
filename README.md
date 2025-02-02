@@ -1,8 +1,12 @@
 Personal Budget Tracker
+
 Overview
+
 The Personal Budget Tracker is a simple web application designed to help users manage their monthly income and expenses. It allows users to input their financial transactions, categorize them, and view a summary in a table format. This project is built using HTML and CSS, making it lightweight and easy to use.
 
+
 Features
+
 Add Income/Expense: Users can add new income or expense entries with details such as amount, category, description, date, and type (income or expense).
 
 Budget Summary: A table displays all the transactions, including category, amount, description, date, and type.
@@ -14,6 +18,7 @@ Responsive Design: The website is designed to be responsive and works well on bo
 Modern UI: A clean and modern user interface with gradients, shadows, and smooth transitions.
 
 How to Use
+
 Add a New Entry:
 
 Go to the "Add New Income or Expense" section.
@@ -33,11 +38,13 @@ Edit or Delete Entries:
 Each entry in the table has "Edit" and "Delete" buttons (functionality to be implemented in the future).
 
 Technologies Used
+
 HTML: Used for structuring the content of the website.
 
 CSS: Used for styling the website, including colors, gradients, shadows, and responsive design.
 
 Future Enhancements
+
 JavaScript Integration: Add functionality to dynamically add, edit, and delete entries without refreshing the page.
 
 Data Persistence: Store user data locally using localStorage or connect to a backend for database storage.
@@ -48,13 +55,13 @@ User Authentication: Allow users to create accounts and log in to track their pe
 
 Screenshots
 Header and Introduction Section
-Header and Introduction Section
+
 
 Add Income/Expense Form
-Add Income/Expense Form
+
 
 Budget Summary Table
-Budget Summary Table
+
 
 Installation
 No installation is required to use this project. Simply open the index.html file in your web browser to view the website.
