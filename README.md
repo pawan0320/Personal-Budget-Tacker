@@ -54,13 +54,9 @@ Charts and Graphs: Visualize income and expenses using charts (e.g., pie charts 
 User Authentication: Allow users to create accounts and log in to track their personal budgets.
 
 Screenshots
-Header and Introduction Section
 
-
-Add Income/Expense Form
-
-
-Budget Summary Table
+<img width="1710" alt="Screenshot 2025-02-02 at 4 36 55 PM" src="https://github.com/user-attachments/assets/4fe3d17d-0f5d-47b7-8274-d0e21406cf77" />
+<img width="1710" alt="Screenshot 2025-02-02 at 4 37 01 PM" src="https://github.com/user-attachments/assets/58e83591-310c-47ad-b8db-0c8ddb9dc745" />
 
 
 Installation
